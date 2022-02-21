@@ -9,5 +9,9 @@ public class GitTest {
         System.out.println("hot-fix branch");
         System.out.println("hot-fix branch");
         System.out.println("hot-fix branch");
+        System.out.println("hot-fix branch");
+        System.out.println("hot-fix branch");
+        System.out.println("hot-fix branch");
+        System.out.println("hot-fix branch");
     }
 }
